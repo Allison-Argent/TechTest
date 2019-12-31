@@ -1,0 +1,5 @@
+Main requirements:
+1. Completely working code.
+2. It must be easy to set up the environment and run it.
+3. Dice Score score at each image:
+https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient - 0.4
